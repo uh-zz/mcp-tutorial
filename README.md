@@ -40,6 +40,11 @@ cd mcp-tutorial && go build -o tools
 
 <img width="959" alt="" src="https://github.com/user-attachments/assets/a3a440ab-4938-4b26-a94c-dc506ad477d9" />
 
+設定が完了したら、Clineからツールが使用可能になります。
+
+<img width="299" alt="image" src="https://github.com/user-attachments/assets/30f4dc8b-1e12-4b6e-9e9e-14d227ecb8b3" />
+
+
 ## Slide
 
 
