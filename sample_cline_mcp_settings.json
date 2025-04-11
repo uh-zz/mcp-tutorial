@@ -1,0 +1,18 @@
+{
+    "mcpServers": {
+      "sample_calculator": {
+        "command": "/path/to/github.com/uh-zz/mcp-tutorial/tools",
+        "args": [],
+        "env": {},
+        "disabled": false,
+        "autoApprove": []
+      },
+      "sample_uuid": {
+        "command": "/path/to/github.com/uh-zz/mcp-tutorial/tools",
+        "args": [],
+        "env": {},
+        "disabled": false,
+        "autoApprove": []
+      }
+    }
+  }
