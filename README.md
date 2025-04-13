@@ -47,4 +47,5 @@ cd mcp-tutorial && go build -o tools
 
 ## Slide
 
+https://speakerdeck.com/uhzz/exploring-mcp
 
